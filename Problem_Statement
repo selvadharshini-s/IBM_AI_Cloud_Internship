@@ -1,0 +1,7 @@
+The Challenge - A Recipe Preparation Agent helps users cook meals using only the ingredients they have on hand.
+By inputting available groceries, users receive tailored recipe suggestions using a RAG-based AI system.
+The agent retrieves relevant recipes and generates step-by-step instructions adapted to ingredient limitations.
+It offers substitutions, cooking tips, and dietary adjustments based on user preferences or restrictions.
+Designed to reduce food waste and save time, it turns pantry items into practical meal solutions.
+This AI assistant makes everyday cooking smarter, simpler, and more sustainable.
+Technology - Use of IBM cloud lite services /IBM Granity is mandatory.
